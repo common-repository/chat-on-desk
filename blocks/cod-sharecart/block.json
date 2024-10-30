@@ -1,0 +1,10 @@
+{
+  "apiVersion": 1,
+  "name": "chat-on-desk/cod-sharecart",
+  "title": "Share Cart",
+  "description": "Displaying the share cart button",
+  "icon": "testimonial",
+  "category": "widgets",
+  "editorScript": "file:./build/index.js",
+  "textdomain": "chat-on-desk"
+}

@@ -1,0 +1,10 @@
+{
+  "apiVersion": 1,
+  "name": "chat-on-desk/cod-loginwithotp",
+  "title": "Login With OTP",
+  "description": "Displaying the login with otp form",
+  "icon": "testimonial",
+  "category": "widgets",
+  "editorScript": "file:./build/index.js",
+  "textdomain": "chat-on-desk"
+}
